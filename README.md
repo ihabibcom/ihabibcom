@@ -1,6 +1,7 @@
 ![I am a Software Engineer and UX Researcher](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/298705664_1962843007239835_8330420616631571224_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=pSsdEkWI0FwAX-3mb3d&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfDWZW8Cau7EjAQUX_FPPFnAjx2dvXT10RTCShb2oOZKOA&oe=63BAFF46)
 
-### Hi,  Habibur Rahman Rushad 👋
+### Hi,  Habibur Rahman Rushad 👋 | 
+![Profile views](https://gpvc.arturio.dev/ihabibcom)
 👑 I am a Software Engineer and UX Researcher <br>
 🖊️ Love to explore new things <br>
 🎤 Like to learning and teaching
