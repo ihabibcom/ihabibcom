@@ -20,7 +20,7 @@ Skills: PHP / Laravel / VUE JS / REACT / JS / HTML / CSS
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: ihabibltd@gmail.com 
 - 😄 Pronouns: ihabibcom 
-- ⚡ Fun fact: Try to do something different 
+- ⚡ Fun fact: Try to do something different <br> <br>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ihabibcom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rushadme/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rushadme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ihabibcom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ihabib.com)  
